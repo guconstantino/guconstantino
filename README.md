@@ -94,7 +94,11 @@
 
 ---
 
+### 🕹️ Beyond the Screen
+When not architecting tokens or optimizing runtime pipelines, I'm usually exploring retrogame hardware, digital illustration, or co-working with Bolota 🐶 and Token 🐱.
+
+---
+
 ### 📬 Get in Touch
 
 * **LinkedIn:** [linkedin.com/in/gustavoconstantino](https://www.linkedin.com/in/gustavoconstantino/)
-* **Email:** [gustavohconstantino@outlook.com](mailto:gustavohconstantino@outlook.com)
