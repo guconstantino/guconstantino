@@ -22,7 +22,7 @@ I build the infrastructure between design and code — tokens, components and AI
 **Itaú Design System (iDS)** · Itaú Unibanco · 2023–2024
 One of Latin America's largest banks ran its DS as 90+ hand-mirrored Figma files; a one-line component fix could take up to three days across 40 libraries.
 We rebuilt it on Figma Variables: primitives → brand themes → responsive components → templates.
-- **90+ files → 3 base libraries (−95%)**, supporting **25+ brand themes** (Itaú, Personnalité, Uniclass, Iti, Íon, Magalu…) in light and dark
+- **90+ files → 3 base libraries (−95%)**, supporting **30+ brand themes** (Itaú, Personnalité, Uniclass, Iti, Íon, Magalu…) in light and dark
 - **60+ components**, **10k+ users** across design, engineering and product, **~800k component insertions per month**
 - Figma API tooling for releases and handoff
 - 🏅 23rd Walther Moreira Salles Award (2024) · 🥈 Silver, 13th Brazilian Design Award – BDA (2023)
