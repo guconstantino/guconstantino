@@ -11,7 +11,7 @@ I build the infrastructure between design and code — tokens, components and AI
 
 ### 🌰 Now
 
-**Senior Product Designer at [Caju](https://www.caju.com.br)**, working on **CastanhaDS**: stabilizing its token and component architecture across Figma, React and Flutter, and building **Castanha AI**, where AI audits design-to-code fidelity instead of guessing at design.
+**Senior Product Designer at [Caju](https://www.caju.com.br)**, lead designer for **CastanhaDS** releases: stabilizing its token and component architecture across Figma, React and Flutter, and building **Castanha AI**, where AI audits design-to-code fidelity instead of guessing at design.
 
 🎤 Speaking at **[Detach! 26](https://www.detach.com.br/)** (Fortaleza, Nov 20–22, 2026) about motion design at scale with tokens.
 
@@ -30,7 +30,7 @@ We rebuilt it on Figma Variables: primitives → brand themes → responsive com
 **CastanhaDS** · Caju · 2025–now
 A fast-growing benefits platform with two legacy component libraries and no shared token model.
 - Three-layer token architecture (Primitives → Theme → Components) with **Figma variable scopes** that block misuse before review
-- **Interaction tokens named after DOM events** (`mouseover`, `mousedown`, `click`) so motion specs map 1:1 to event listeners
+- Designed the **Motion Tokens** architecture (Primitives → Theme → Brand Style → Components): durations and easing grouped by intent (Hover, Pressed, Selected), reconciled between Figma and code
 - Co-authored the stabilization rollout: two library versions in parallel, a 3-month deprecation window and adoption signals tracked per sprint
 - Part of the team behind the **Caju Redesign**, winner of the **iF DESIGN AWARD 2026** (UX / Product UX)
 
