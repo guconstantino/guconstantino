@@ -1,104 +1,108 @@
 # Gustavo Constantino
 
-### Lead Product Designer & Design Systems Architect
-*Bridging high-craft human experiences, enterprise design infrastructure, and AI-native workflows.*
+### Design Systems Engineer · Senior Product Designer
 
-[![iF DESIGN AWARD 2026 Winner](https://img.shields.io/badge/iF_DESIGN_AWARD_2026-Winner_(UX)-yellow?style=for-the-badge&logo=award)](https://ifdesign.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Constantino-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gustavoconstantino)
-[![Location](https://img.shields.io/badge/Location-Brazil-2ea44f?style=for-the-badge)](https://github.com/guconstantino)
+I build the infrastructure between design and code — tokens, components and AI workflows that keep them in sync.
 
----
-
-> *"Design systems are not merely component libraries; they are foundational product infrastructure. My work bridges deep human-centered craft, complex user journeys, and engineering rigor to scale products that touch millions of lives."*
+[![iF DESIGN AWARD 2026 Winner](https://img.shields.io/badge/iF_DESIGN_AWARD_2026-Winner_·_Product_UX-yellow?style=for-the-badge)](https://ifdesign.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavoconstantino-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavoconstantino/)
 
 ---
 
-### 📊 Enterprise Impact & Track Record
+### 🌰 Now
 
-| Metric / Milestone | Ecosystem | Impact & Scope |
-| :--- | :--- | :--- |
-| **📈 10,000+ Active Builders** | Itaú Unibanco | Governed core foundations for LATAM's largest financial institution (800k+ Figma insertions/mo) |
-| **⚡ 70% Faster Delivery** | CastanhaDS (Caju) | Architected Figma MCP + Cursor Agent pipelines ensuring 100% semantic DOM parity |
-| **📉 95% Asset Optimization** | Itaú Design System (iDS) | Mitigated system fragmentation, honored with Walther Moreira Salles & BDA |
+**Senior Product Designer at [Caju](https://www.caju.com.br)**, working on **CastanhaDS**: stabilizing its token and component architecture across Figma, React and Flutter, and building **Castanha AI**, where AI audits design-to-code fidelity instead of guessing at design.
+
+🎤 Speaking at **[Detach! 26](https://www.detach.com.br/)** (Fortaleza, Nov 20–22, 2026) about motion design at scale with tokens.
 
 ---
 
-### 💡 Core Product Pillars
+### 🧩 Selected work
 
-#### 1. 🎨 Product Craft, UX & Strategy
-* **Human-Centered Problem Solving:** Over a decade designing user-first digital products across Tier-1 banking (Itaú, Banco next), flexible SaaS/HR (Caju), digital retail (Ame Digital), and healthtech (Unimed Telemedicine).
-* **High-Fidelity Interface Design:** Obsession with visual hierarchy, accessibility standards (WCAG 2.2 AAA / APCA), cognitive load reduction, and polished micro-interactions.
-* **Discovery to Delivery:** Translating ambiguous business goals into intuitive product architectures, validating through continuous user interviews, usability testing, and live telemetry.
+**Itaú Design System (iDS)** · Itaú Unibanco · 2023–2024
+One of Latin America's largest banks ran its DS as 90+ hand-mirrored Figma files; a one-line component fix could take up to three days across 40 libraries.
+We rebuilt it on Figma Variables: primitives → brand themes → responsive components → templates.
+- **90+ files → 3 base libraries (−95%)**, supporting **25+ brand themes** (Itaú, Personnalité, Uniclass, Iti, Íon, Magalu…) in light and dark
+- **60+ components**, **10k+ users** across design, engineering and product, **~800k component insertions per month**
+- Figma API tooling for releases and handoff
+- 🏅 23rd Walther Moreira Salles Award (2024) · 🥈 Silver, 13th Brazilian Design Award – BDA (2023)
 
-#### 2. 🏛️ Design Systems & Multi-Brand Architecture
-* **Strict 3-Tier Token Taxonomy:** Architected systems adhering to W3C standards (`Primitives → Semantic Themes → Component Tokens`), enabling effortless multi-brand and dark/light mode switching without layout refactoring.
-* **Interaction Contract Parity:** Mapped design token foundations directly to native DOM event models (`mouseover`, `mousedown`, `focus`, `click`), removing handoff friction and visual regressions.
-* **Governance & Culture:** Designed adoption metrics, versioning strategies (SemVer), component deprecation lifecycles (DoR/DoD), and led hands-on training for hundreds of cross-functional partners.
+**CastanhaDS** · Caju · 2025–now
+A fast-growing benefits platform with two legacy component libraries and no shared token model.
+- Three-layer token architecture (Primitives → Theme → Components) with **Figma variable scopes** that block misuse before review
+- **Interaction tokens named after DOM events** (`mouseover`, `mousedown`, `click`) so motion specs map 1:1 to event listeners
+- Co-authored the stabilization rollout: two library versions in parallel, a 3-month deprecation window and adoption signals tracked per sprint
+- Part of the team behind the **Caju Redesign**, winner of the **iF DESIGN AWARD 2026** (UX / Product UX)
 
-#### 3. 🤖 AI-Native Workflows & Tooling
-* **Figma MCP + Cursor Agent Integration:** Connected live design files directly to coding agents via Model Context Protocol (MCP), generating production-grade components with correct variants and tokens on the first pass.
-* **Autonomous Quality Assurance:** Built automated AI verification routines to audit contrast ratios, flag hardcoded tokens, and audit accessibility before engineering handoff.
+**Castanha AI** · Caju · 2026
+*AI as the fidelity guardian between design and code — not the author.*
+A Figma MCP + Claude/Cursor workflow with a written protocol: token and contrast audits, diffs between revisions, a false-positive catalog and dual handoffs (dev + docs). On the first pilot (Alert):
+- sized a migration of **9,205 instances × 251 files × 31 squads** in about two minutes
+- validated **21 WCAG contrast combinations**, including alpha compositing
+- caught **3 silent regressions** before release
 
----
-
-### 💼 Product Journey
-
-* **Caju Benefícios** · *Senior Product Designer (Design Systems & Infrastructure)*
-  * Co-architected the comprehensive mobile product redesign, restructuring navigation, card management, and flexible benefits journeys.
-  * Led the stabilization of **CastanhaDS**, building an AI-ready multi-brand architecture across web and mobile.
-  * Piloted the Figma MCP generative pipeline, compressing component production time from 2h20m to 40m.
-
-* **Itaú Unibanco** · *Senior Product Designer (Itaú Design System — iDS Lead)*
-  * Led core component libraries, token structures, and documentation serving 10,000+ developers and designers.
-  * Modernized digital journeys across Banco Itaú, Personnalité, Cards, and Corporate Banking platforms.
-  * Conferred the **23º Prêmio Walther Moreira Salles (2024)** and Silver at the **13º Prêmio Brasileiro de Design (BDA 2023)**.
-
-* **Banco next & Ame Digital** · *UX Lead & Senior Product Designer*
-  * Led technical DS initiatives for digital banking and e-commerce ecosystems (**Ame Rocks!**).
-  * Designed modular color themes, token libraries, and established DesignOps rituals across mobile and web squads.
-
-* **Livework Studio** · *Product Designer & UX Researcher*
-  * Designed healthtech and digital wellness platforms, including the **Central Nacional Unimed Telemedicine** mobile app and the **Seguros Unimed SuperApp** (integrated with Dacadoo health telemetry).
+**Ame Rocks!** · Ame Digital · 2021–2022
+Multi-platform, multi-brand design system: a global token library feeding the consumer app (iOS, Android, React) and the business product (React), plus the Design Ops rituals around it.
 
 ---
 
-### 🛠️ Competencies & Stack
+### 🛠️ Building in public
 
-| Area | Focus & Technologies |
-| :--- | :--- |
-| **Product Design** | Product Strategy, User Research, Journey Mapping, Rapid Prototyping, Usability Testing, Information Architecture |
-| **Design Systems** | Multi-Brand Theming, W3C Design Tokens, Component Architecture, DesignOps, SemVer, Figma Variables |
-| **Standards & Craft** | Accessibility (WCAG 2.2), Interaction Design, Responsive Box Model, Micro-interactions, Design Heuristics |
-| **AI & Automation** | Model Context Protocol (MCP), Figma MCP, Cursor Agent, Claude Code, Autonomous QA Scripting |
-| **Engineering Foundations** | Semantic DOM, Modern CSS, TypeScript, React.js, Jetpack Compose, Swift/AppKit, Web Components |
-
----
-
-### 🏆 Honors & Industry Recognition
-
-* 🥇 **iF DESIGN AWARD 2026** — Winner in *User Experience (UX) / Product UX* (Caju Redesign)
-* 🏅 **23º Prêmio Walther Moreira Salles (2024)** — *A Nova Experiência Digital* (Itaú Unibanco / iDS)
-* 🥈 **13º Prêmio Brasileiro de Design (BDA 2023)** — Silver in *Digital Design* (iDS)
+| Project | What it is |
+|---|---|
+| **openVS** · [Storybook](https://storybook-static-seven-umber.vercel.app) · [Playroom](https://vsone-editor.vercel.app) | Multi-brand design system in **Lit + TypeScript**. Its own Figma-Variables-to-CSS token compiler, zero magic values, WCAG 2.1 AA, Changesets releases and opt-in adoption telemetry |
+| [**WatchDraw**](https://github.com/guconstantino/GalaxyWatchDrawing) | Standalone Wear OS drawing app on Google Play (Kotlin, Jetpack Compose): smooth strokes, gesture undo/redo with haptics and offline-first sync to Google Photos |
+| [**3mfmacOSPreview**](https://github.com/guconstantino/3mfmacOSPreview) | macOS Quick Look extension (Swift) that previews `.3mf` / `.gcode` / `.bgcode` 3D-printing files |
+| [**AndroidHapticFeedbackCreator**](https://github.com/guconstantino/AndroidHapticFeedbackCreator) | Android app (Kotlin, Compose) to compose, preview and share vibration patterns, with preset effects |
+| [**NFC-KeyChain-3D**](https://github.com/guconstantino/NFC-KeyChain-3D) | Customizable 3D-printable keychain generator with an NFC slot |
 
 ---
 
-### 🎓 Education & Certifications
+### 🧭 How I work
 
-* **Postgraduate Specialization in Digital Product Design (UX/UI)** — UNOPAR (2021 – 2022)
-* **Bachelor of Visual Arts & Multimedia** — UNOPAR (2016 – 2020)
-* **Systems Analysis & Information Technology** — Federal University of Technology - Paraná (UTFPR, 2013 – 2016)
-* **Human-Computer Interaction (HCI)** — Interaction Design Foundation (IxDF)
-* **AI for Design Systems: How to Stay Ahead and Lead** — Interaction Design Foundation (IxDF)
-* **Design for the 21st Century with Don Norman** — Interaction Design Foundation (IxDF)
-* **Visual Elements of User Interface Design** — California Institute of the Arts (CalArts)
+- **Zero magic values.** If it isn't a token, it isn't done.
+- **One vocabulary.** Props, states and events carry the same names in Figma and in code.
+- **AI proposes, designers decide.** Short review cycles beat one big audit at the end.
+- **Structure before pixels.** Stabilize the foundation, then redesign on top of it.
 
 ---
 
-### 🕹️ Beyond the Screen
-When not architecting tokens or optimizing runtime pipelines, I'm usually exploring retrogame hardware, digital illustration, or co-working with Bolota 🐶 and Token 🐱.
+### 🧰 Toolbox
+
+**Design systems:** Figma Variables · Figma Plugin & REST API · Design Tokens (3-tier) · Storybook · zeroheight · SemVer & Changesets
+**Engineering:** TypeScript · Lit / Web Components · React · HTML/CSS · Kotlin / Jetpack Compose · Swift
+**AI:** Figma MCP · Claude Code · Cursor · custom agent skills for DS QA
+**Craft:** Product & interaction design · Accessibility (WCAG) · Motion · Illustration
 
 ---
 
-### 📬 Get in Touch
+### 🗺️ Path
 
-* **LinkedIn:** [linkedin.com/in/gustavoconstantino](https://www.linkedin.com/in/gustavoconstantino/)
+`2025–now` **Caju**: Senior Product Designer, CastanhaDS
+`2023–24` **Itaú Unibanco**: Senior Product Designer, Itaú Design System
+`2022` **Banco next**: UX Lead, Design System
+`2021–22` **Ame Digital**: Senior Product Designer, Design Systems & Ops
+`2020–21` **Livework**: Product / UX Designer for Unimed (telemedicine & wellbeing)
+`2017–20` Brand, visual and digital design in Londrina (Advise, Egg, LevelX, IRRA, Folks)
+
+Postgrad in Digital Product Design (UX/UI) and B.A. in Visual Arts & Multimedia (UNOPAR) · Systems Analysis studies at UTFPR
+
+---
+
+### 💬 Kind words
+
+> "Sua habilidade em criar e manter sistemas de design coesos, funcionais e esteticamente agradáveis é verdadeiramente única."
+> — **Victor Assis**, Front-End Engineering Specialist (Itaú)
+
+> "Ele não é o tipo de profissional que se acomoda ou se contenta apenas com as atividades planejadas para o sprint; muito pelo contrário, ele está sempre buscando aprender e pesquisar maneiras de aprimorar seus processos e entregas."
+> — **Lucas Cerqueira**, Design Manager (managed Gustavo at Ame Digital and Itaú)
+
+---
+
+### 🕹️ Beyond the screen
+
+Retro-gaming hardware, 3D printing, digital illustration, and co-working with Bolota 🐶 and Token 🐱. Based in Londrina, Brazil · open to remote work · 🇧🇷 Também falo português.
+
+Older visual and brand work lives on [Behance](https://www.behance.net/gustavoconstantino).
+
+<!-- TODO: incluir e-mail público quando hello.gustavoconstantino@gmail.com estiver reconfigurado -->
