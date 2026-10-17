@@ -89,16 +89,6 @@ Postgrad in Digital Product Design (UX/UI) and B.A. in Visual Arts & Multimedia 
 
 ---
 
-### 💬 Kind words
-
-> "Sua habilidade em criar e manter sistemas de design coesos, funcionais e esteticamente agradáveis é verdadeiramente única."
-> — **Victor Assis**, Front-End Engineering Specialist (Itaú)
-
-> "Ele não é o tipo de profissional que se acomoda ou se contenta apenas com as atividades planejadas para o sprint; muito pelo contrário, ele está sempre buscando aprender e pesquisar maneiras de aprimorar seus processos e entregas."
-> — **Lucas Cerqueira**, Design Manager (managed Gustavo at Ame Digital and Itaú)
-
----
-
 ### 🕹️ Beyond the screen
 
 Retro-gaming hardware, 3D printing, digital illustration, and co-working with Bolota 🐶 and Token 🐱. Based in Londrina, Brazil · open to remote work · 🇧🇷 Também falo português.
